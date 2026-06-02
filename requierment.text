@@ -1,0 +1,29 @@
+Tech Stack:
+
+Core
+C++20
+Linux
+CMake
+STL
+Threads
+Atomic
+TCP
+WebSocket
+
+Backend:
+
+Matching Engine
+OMS
+Risk Engine
+Strategy Engine
+Feed Handler
+
+Frontend:
+
+React
+TypeScript
+Vite
+Tailwind
+Recharts
+Storage
+PostgreSQL
