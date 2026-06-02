@@ -1,0 +1,3 @@
+C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/build/CMakeFiles/exchange.dir
+C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/build/CMakeFiles/edit_cache.dir
+C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/build/CMakeFiles/rebuild_cache.dir
