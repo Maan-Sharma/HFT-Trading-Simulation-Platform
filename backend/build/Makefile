@@ -249,6 +249,30 @@ src/feed/MArketDataFeed.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exchange.dir\build.make CMakeFiles/exchange.dir/src/feed/MArketDataFeed.cpp.s
 .PHONY : src/feed/MArketDataFeed.cpp.s
 
+src/network/WebSocketServer.obj: src/network/WebSocketServer.cpp.obj
+.PHONY : src/network/WebSocketServer.obj
+
+# target to build an object file
+src/network/WebSocketServer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exchange.dir\build.make CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj
+.PHONY : src/network/WebSocketServer.cpp.obj
+
+src/network/WebSocketServer.i: src/network/WebSocketServer.cpp.i
+.PHONY : src/network/WebSocketServer.i
+
+# target to preprocess a source file
+src/network/WebSocketServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exchange.dir\build.make CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.i
+.PHONY : src/network/WebSocketServer.cpp.i
+
+src/network/WebSocketServer.s: src/network/WebSocketServer.cpp.s
+.PHONY : src/network/WebSocketServer.s
+
+# target to generate assembly for a file
+src/network/WebSocketServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exchange.dir\build.make CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.s
+.PHONY : src/network/WebSocketServer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -273,6 +297,9 @@ help:
 	@echo ... src/feed/MArketDataFeed.obj
 	@echo ... src/feed/MArketDataFeed.i
 	@echo ... src/feed/MArketDataFeed.s
+	@echo ... src/network/WebSocketServer.obj
+	@echo ... src/network/WebSocketServer.i
+	@echo ... src/network/WebSocketServer.s
 .PHONY : help
 
 

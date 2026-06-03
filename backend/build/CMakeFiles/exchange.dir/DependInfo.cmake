@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/src/book/BookSide.cpp" "CMakeFiles/exchange.dir/src/book/BookSide.cpp.obj" "gcc" "CMakeFiles/exchange.dir/src/book/BookSide.cpp.obj.d"
   "C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/src/book/OrderBook.cpp" "CMakeFiles/exchange.dir/src/book/OrderBook.cpp.obj" "gcc" "CMakeFiles/exchange.dir/src/book/OrderBook.cpp.obj.d"
   "C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/src/feed/MArketDataFeed.cpp" "CMakeFiles/exchange.dir/src/feed/MArketDataFeed.cpp.obj" "gcc" "CMakeFiles/exchange.dir/src/feed/MArketDataFeed.cpp.obj.d"
+  "C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/src/network/WebSocketServer.cpp" "CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj" "gcc" "CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

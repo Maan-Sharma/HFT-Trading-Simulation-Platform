@@ -1,10 +1,12 @@
 #pragma once
 
 #include "BookSide.hpp"
+#include "../market/BookSnapshot.hpp"
 
 class OrderBook
 {
 public:
+    BookSnapshot snapshot() const;
     OrderBook();
 
     void addOrder(Order *order);

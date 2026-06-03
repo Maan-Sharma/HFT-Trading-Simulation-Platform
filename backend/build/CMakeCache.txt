@@ -14,6 +14,12 @@
 # EXTERNAL cache entries
 ########################
 
+//The directory containing a CMake configuration file for Boost.
+Boost_DIR:PATH=C:/msys64/ucrt64/lib/cmake/Boost-1.90.0
+
+//Path to a file.
+Boost_INCLUDE_DIR:PATH=C:/msys64/ucrt64/include
+
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/msys64/ucrt64/bin/addr2line.exe
 
@@ -240,11 +246,16 @@ HFTTradingSimulation_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 HFTTradingSimulation_SOURCE_DIR:STATIC=C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend
 
+//The directory containing a CMake configuration file for boost_headers.
+boost_headers_DIR:PATH=C:/msys64/ucrt64/lib/cmake/boost_headers-1.90.0
+
 
 ########################
 # INTERNAL cache entries
 ########################
 
+//ADVANCED property for variable: Boost_DIR
+Boost_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_ADDR2LINE
 CMAKE_ADDR2LINE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_AR
@@ -307,6 +318,8 @@ CMAKE_GENERATOR_INSTANCE:INTERNAL=
 CMAKE_GENERATOR_PLATFORM:INTERNAL=
 //Name of generator toolset.
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
+//Test CMAKE_HAVE_LIBC_PTHREAD
+CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
 CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend
@@ -385,4 +398,8 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_TAPI-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding Boost
+FIND_PACKAGE_MESSAGE_DETAILS_Boost:INTERNAL=[C:/msys64/ucrt64/lib/cmake/Boost-1.90.0/BoostConfig.cmake][ ][v1.90.0()]
+//Details about finding Threads
+FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
 

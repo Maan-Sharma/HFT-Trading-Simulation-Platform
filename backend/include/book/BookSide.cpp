@@ -25,6 +25,16 @@ void BookSide::add(Order *order)
 
     level.totalQuantity += order->quantity;
 }
+PriceLevel *BookSide::bestLevel()
+{
+    if (levels_.empty())
+        return nullptr;
+
+    if (isBid_)
+        return &(levels_.rbegin()->second);
+
+    return &(levels_.begin()->second);
+}
 
 Price BookSide::bestPrice() const
 {

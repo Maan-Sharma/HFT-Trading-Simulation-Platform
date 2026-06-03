@@ -1,4 +1,5 @@
 #include "../../include/book/OrderBook.hpp"
+#include <iostream>
 
 OrderBook::OrderBook()
     : bids_(true),
@@ -6,12 +7,24 @@ OrderBook::OrderBook()
 {
 }
 
+BookSnapshot OrderBook::snapshot() const
+{
+    return {bestBid(),
+            bestAsk()};
+}
+
 void OrderBook::addOrder(Order *order)
 {
     if (order->side == Side::BUY)
+    {
+
         bids_.add(order);
+    }
     else
+    {
+
         asks_.add(order);
+    }
 }
 
 Price OrderBook::bestBid() const

@@ -84,4 +84,5 @@ CMakeFiles/exchange.dir/src/MatchingEngine/MatchingEngine.cpp.obj: \
  C:/msys64/ucrt64/include/stdint.h \
  C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Side.hpp \
  C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/OrderType.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/market/BookSnapShot.hpp \
  C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Trade.hpp

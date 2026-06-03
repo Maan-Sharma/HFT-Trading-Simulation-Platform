@@ -63,3 +63,19 @@ target_include_directories(
     PRIVATE
     include
 )
+file(
+    GLOB_RECURSE SOURCES
+    CONFIGURE_DEPENDS
+    src/*.cpp
+)
+find_package(Boost REQUIRED)
+
+find_package(Threads REQUIRED)
+
+target_link_libraries(
+    exchange
+    PRIVATE
+    ws2_32
+    mswsock
+    Threads::Threads
+)

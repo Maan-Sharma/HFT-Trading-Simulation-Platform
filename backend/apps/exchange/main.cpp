@@ -1,29 +1,36 @@
 #include <iostream>
 #include <thread>
 #include <chrono>
-#include <random>
 
 #include "../../include/feed/MarketDataFeed.hpp"
 #include "../../include/matching/MatchingEngine.hpp"
+#include "../../include/network/WebSocketServer.hpp"
 
 int main()
 {
-    MatchingEngine engine;
+    WebSocketServer ws(9002);
 
+    ws.start();
+    MatchingEngine engine;
     MarketDataFeed feed;
+
+    uint64_t orderCount = 0;
+    uint64_t tradeCount = 0;
 
     while (true)
     {
-        Order *order =
-            feed.nextOrder();
+        Order *order = feed.nextOrder();
 
-        auto trades =
-            engine.process(order);
+        auto trades = engine.process(order);
+
+        ++orderCount;
+        tradeCount += trades.size();
 
         std::cout
-            << (order->side == Side::BUY
-                    ? "BUY "
-                    : "SELL ")
+            << "--------------------------------------------------\n"
+            << "ORDER #" << order->orderId
+            << " | "
+            << (order->side == Side::BUY ? "BUY " : "SELL ")
             << order->quantity
             << " @ "
             << order->price
@@ -32,21 +39,40 @@ int main()
         for (const auto &trade : trades)
         {
             std::cout
-                << "TRADE "
+                << "TRADE  "
                 << trade.quantity
                 << " @ "
                 << trade.price
                 << '\n';
         }
 
-        std::cout
-            << "BID="
-            << engine.book().bestBid()
-            << " ASK="
-            << engine.book().bestAsk()
-            << "\n\n";
+        Price bid = engine.book().bestBid();
+        Price ask = engine.book().bestAsk();
 
-        std::this_t::sleep_for(
-            std::chrono::milliseconds(100));
+        std::cout
+            << "BOOK   | "
+            << "BID: " << bid
+            << " | ASK: " << ask;
+
+        if (bid > 0 && ask > 0)
+        {
+            std::cout
+                << " | SPREAD: "
+                << (ask - bid);
+        }
+
+        std::cout << '\n';
+
+        std::cout
+            << "STATS  | Orders: "
+            << orderCount
+            << " | Trades: "
+            << tradeCount
+            << '\n';
+
+        std::this_thread::sleep_for(
+            std::chrono::milliseconds(50));
     }
+
+    return 0;
 }
