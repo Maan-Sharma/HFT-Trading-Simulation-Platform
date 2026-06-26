@@ -5,6 +5,7 @@
 
 #include <memory>
 #include <set>
+#include <mutex>
 #include <string>
 
 namespace beast = boost::beast;
@@ -15,15 +16,19 @@ using tcp = asio::ip::tcp;
 class WebSocketServer
 {
 public:
-    explicit WebSocketServer(unsigned short port);
+    explicit WebSocketServer(
+        unsigned short port);
 
     void start();
 
-    void broadcast(const std::string &message);
+    void broadcast(
+        const std::string &message);
 
 private:
     asio::io_context ioc_;
     tcp::acceptor acceptor_;
+
+    std::mutex clientsMutex_;
 
     std::set<
         std::shared_ptr<

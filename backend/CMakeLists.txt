@@ -79,3 +79,11 @@ target_link_libraries(
     mswsock
     Threads::Threads
 )
+find_package(Boost REQUIRED COMPONENTS system json)
+
+target_link_libraries(
+    exchange
+    PRIVATE
+    Boost::system
+    Boost::json
+)

@@ -1,5 +1,21 @@
-CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj: \
- C:\Users\ks798\Desktop\HFT_Trading_Simulation\backend\src\network\WebSocketServer.cpp \
+CMakeFiles/exchange.dir/src/network/MarketPublisher.cpp.obj: \
+ C:\Users\ks798\Desktop\HFT_Trading_Simulation\backend\src\network\MarketPublisher.cpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/network/MarketPublisher.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Trade.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/common/Types.hpp \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstdint \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/pstl/pstl_config.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h \
+ C:/msys64/ucrt64/include/stdint.h C:/msys64/ucrt64/include/crtdefs.h \
+ C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
+ C:/msys64/ucrt64/include/_mingw_mac.h \
+ C:/msys64/ucrt64/include/_mingw_secapi.h \
+ C:/msys64/ucrt64/include/vadefs.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h \
+ C:/msys64/ucrt64/include/stddef.h \
  C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/network/WebSocketServer.hpp \
  C:/msys64/ucrt64/include/boost/beast/websocket.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/config.hpp \
@@ -8,16 +24,6 @@ CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj: \
  C:/msys64/ucrt64/include/boost/config/detail/select_compiler_config.hpp \
  C:/msys64/ucrt64/include/boost/config/compiler/gcc.hpp \
  C:/msys64/ucrt64/include/c++/16.1.0/cstddef \
- C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
- C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h \
- C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
- C:/msys64/ucrt64/include/c++/16.1.0/pstl/pstl_config.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h \
- C:/msys64/ucrt64/include/stddef.h C:/msys64/ucrt64/include/crtdefs.h \
- C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
- C:/msys64/ucrt64/include/_mingw_mac.h \
- C:/msys64/ucrt64/include/_mingw_secapi.h \
- C:/msys64/ucrt64/include/vadefs.h \
  C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
  C:/msys64/ucrt64/include/boost/config/detail/select_stdlib_config.hpp \
  C:/msys64/ucrt64/include/c++/16.1.0/version \
@@ -39,8 +45,6 @@ CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj: \
  C:/msys64/ucrt64/include/boost/system/detail/config.hpp \
  C:/msys64/ucrt64/include/boost/config/workaround.hpp \
  C:/msys64/ucrt64/include/boost/cstdint.hpp \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h \
- C:/msys64/ucrt64/include/stdint.h \
  C:/msys64/ucrt64/include/c++/16.1.0/string \
  C:/msys64/ucrt64/include/c++/16.1.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/16.1.0/bits/stringfwd.h \
@@ -183,7 +187,6 @@ CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj: \
  C:/msys64/ucrt64/include/pthread_compat.h \
  C:/msys64/ucrt64/include/sched.h \
  C:/msys64/ucrt64/include/pthread_unistd.h \
- C:/msys64/ucrt64/include/c++/16.1.0/cstdint \
  C:/msys64/ucrt64/include/boost/system/detail/error_condition.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/generic_category.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/generic_category_message.hpp \
@@ -1538,5 +1541,117 @@ CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj: \
  C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_tree.h \
  C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_set.h \
  C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_multiset.h \
- C:/msys64/ucrt64/include/c++/16.1.0/iostream \
- C:/msys64/ucrt64/include/c++/16.1.0/thread
+ C:/msys64/ucrt64/include/boost/json.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/config.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/gdb_printers.hpp \
+ C:/msys64/ucrt64/include/boost/json/array.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/array.hpp \
+ C:/msys64/ucrt64/include/boost/json/storage_ptr.hpp \
+ C:/msys64/ucrt64/include/boost/container/pmr/polymorphic_allocator.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/dispatch_uses_allocator.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/config_begin.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/workaround.hpp \
+ C:/msys64/ucrt64/include/boost/container/allocator_traits.hpp \
+ C:/msys64/ucrt64/include/boost/container/container_fwd.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/std_fwd.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/mpl.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/config_end.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/type_traits.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/placement_new.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/is_pair.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/addressof.hpp \
+ C:/msys64/ucrt64/include/boost/intrusive/detail/has_member_function_callable_with.hpp \
+ C:/msys64/ucrt64/include/boost/move/detail/fwd_macros.hpp \
+ C:/msys64/ucrt64/include/boost/container/uses_allocator.hpp \
+ C:/msys64/ucrt64/include/boost/container/uses_allocator_fwd.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/variadic_templates_tools.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/is_constructible.hpp \
+ C:/msys64/ucrt64/include/boost/container/new_allocator.hpp \
+ C:/msys64/ucrt64/include/boost/container/throw_exception.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/operator_new_helpers.hpp \
+ C:/msys64/ucrt64/include/boost/container/pmr/memory_resource.hpp \
+ C:/msys64/ucrt64/include/boost/container/pmr/global_resource.hpp \
+ C:/msys64/ucrt64/include/boost/container/detail/auto_link.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/shared_resource.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/default_resource.hpp \
+ C:/msys64/ucrt64/include/boost/json/is_deallocate_trivial.hpp \
+ C:/msys64/ucrt64/include/boost/json/kind.hpp \
+ C:/msys64/ucrt64/include/boost/json/string_view.hpp \
+ C:/msys64/ucrt64/include/boost/json/pilfer.hpp \
+ C:/msys64/ucrt64/include/boost/system/result.hpp \
+ C:/msys64/ucrt64/include/boost/variant2/variant.hpp \
+ C:/msys64/ucrt64/include/boost/mp11.hpp \
+ C:/msys64/ucrt64/include/boost/mp11/map.hpp \
+ C:/msys64/ucrt64/include/boost/mp11/lambda.hpp \
+ C:/msys64/ucrt64/include/boost/mp11/tuple.hpp \
+ C:/msys64/ucrt64/include/boost/compat/invoke.hpp \
+ C:/msys64/ucrt64/include/boost/compat/mem_fn.hpp \
+ C:/msys64/ucrt64/include/boost/compat/type_traits.hpp \
+ C:/msys64/ucrt64/include/boost/compat/detail/returns.hpp \
+ C:/msys64/ucrt64/include/boost/json/value.hpp \
+ C:/msys64/ucrt64/include/boost/json/object.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/object.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/value.hpp \
+ C:/msys64/ucrt64/include/boost/json/fwd.hpp \
+ C:/msys64/ucrt64/include/boost/json/set_pointer_options.hpp \
+ C:/msys64/ucrt64/include/boost/json/string.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/digest.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/except.hpp \
+ C:/msys64/ucrt64/include/boost/json/error.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/error.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/string_impl.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/string.hpp \
+ C:/msys64/ucrt64/include/boost/json/value_ref.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/impl/array.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/array.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/object.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/value.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/value_ref.hpp \
+ C:/msys64/ucrt64/include/boost/json/value_from.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/value_from.hpp \
+ C:/msys64/ucrt64/include/boost/json/conversion.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/conversion.hpp \
+ C:/msys64/ucrt64/include/boost/describe/enumerators.hpp \
+ C:/msys64/ucrt64/include/boost/describe/enum_to_string.hpp \
+ C:/msys64/ucrt64/include/boost/json/basic_parser.hpp \
+ C:/msys64/ucrt64/include/boost/json/parse_options.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/stack.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/impl/stack.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/stream.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/utf8.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/sbo_buffer.hpp \
+ C:/msys64/ucrt64/include/boost/json/monotonic_resource.hpp \
+ C:/msys64/ucrt64/include/boost/json/null_resource.hpp \
+ C:/msys64/ucrt64/include/boost/json/parse.hpp \
+ C:/msys64/ucrt64/include/boost/json/parse_into.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/parse_into.hpp \
+ C:/msys64/ucrt64/include/boost/describe/enum_from_string.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/parse_into.hpp \
+ C:/msys64/ucrt64/include/boost/json/basic_parser_impl.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/literals.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/buffer.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/charconv/from_chars.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/charconv/detail/config.hpp \
+ C:/msys64/ucrt64/include/c++/16.1.0/cfloat \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/float.h \
+ C:/msys64/ucrt64/include/float.h \
+ C:/msys64/ucrt64/include/boost/json/detail/charconv/detail/from_chars_result.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/charconv/chars_format.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/sse2.hpp \
+ C:/msys64/ucrt64/include/boost/json/parser.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/handler.hpp \
+ C:/msys64/ucrt64/include/boost/json/value_stack.hpp \
+ C:/msys64/ucrt64/include/boost/json/result_for.hpp \
+ C:/msys64/ucrt64/include/boost/json/serialize.hpp \
+ C:/msys64/ucrt64/include/boost/json/serialize_options.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/serialize.hpp \
+ C:/msys64/ucrt64/include/boost/json/serializer.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/format.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/writer.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/serializer.hpp \
+ C:/msys64/ucrt64/include/boost/json/static_resource.hpp \
+ C:/msys64/ucrt64/include/boost/json/stream_parser.hpp \
+ C:/msys64/ucrt64/include/boost/json/value_to.hpp \
+ C:/msys64/ucrt64/include/boost/json/detail/value_to.hpp \
+ C:/msys64/ucrt64/include/boost/json/visit.hpp \
+ C:/msys64/ucrt64/include/boost/json/impl/visit.hpp

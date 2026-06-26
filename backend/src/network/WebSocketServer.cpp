@@ -1,5 +1,4 @@
-#include "../../include/network/WebSocketServer.hpp"
-
+#include "network/WebSocketServer.hpp"
 #include <iostream>
 #include <thread>
 
@@ -62,6 +61,9 @@ void WebSocketServer::acceptConnection()
 void WebSocketServer::broadcast(
     const std::string &message)
 {
+    std::lock_guard lock(
+        clientsMutex_);
+
     for (auto &client : clients_)
     {
         boost::system::error_code ec;

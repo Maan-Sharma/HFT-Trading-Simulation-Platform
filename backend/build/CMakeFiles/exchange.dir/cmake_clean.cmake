@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/exchange.dir/src/book/OrderBook.cpp.obj.d"
   "CMakeFiles/exchange.dir/src/feed/MArketDataFeed.cpp.obj"
   "CMakeFiles/exchange.dir/src/feed/MArketDataFeed.cpp.obj.d"
+  "CMakeFiles/exchange.dir/src/network/MarketPublisher.cpp.obj"
+  "CMakeFiles/exchange.dir/src/network/MarketPublisher.cpp.obj.d"
   "CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj"
   "CMakeFiles/exchange.dir/src/network/WebSocketServer.cpp.obj.d"
   "exchange.exe"

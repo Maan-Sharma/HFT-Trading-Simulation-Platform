@@ -1,35 +1,63 @@
 #include <iostream>
+#include <random>
 #include <thread>
 #include <chrono>
 
-#include "../../include/feed/MarketDataFeed.hpp"
-#include "../../include/matching/MatchingEngine.hpp"
 #include "../../include/network/WebSocketServer.hpp"
+#include "../../include/network/MarketPublisher.hpp"
+#include "../../include/matching/MatchingEngine.hpp"
+#include "../../include/common/Timestamp.hpp"
 
 int main()
 {
-    WebSocketServer ws(9002);
+    WebSocketServer wsServer(8080);
+    wsServer.start();
 
-    ws.start();
+    MarketPublisher publisher(wsServer);
     MatchingEngine engine;
-    MarketDataFeed feed;
 
-    uint64_t orderCount = 0;
-    uint64_t tradeCount = 0;
+    std::mt19937 rng(std::random_device{}());
+
+    Price currentPrice = 250;
+
+    OrderId nextOrderId = 1;
+
+    std::uniform_int_distribution<int>
+        moveDist(-1, 1);
+
+    std::uniform_int_distribution<int>
+        qtyDist(1, 50);
+
+    std::uniform_int_distribution<int>
+        sideDist(0, 1);
 
     while (true)
     {
-        Order *order = feed.nextOrder();
+        currentPrice += moveDist(rng);
 
-        auto trades = engine.process(order);
+        if (currentPrice < 200)
+            currentPrice = 200;
 
-        ++orderCount;
-        tradeCount += trades.size();
+        if (currentPrice > 300)
+            currentPrice = 300;
+
+        Order *order = new Order{
+            nextOrderId++,
+            currentPrice,
+            qtyDist(rng),
+            getTimestamp(),
+            sideDist(rng) == 0
+                ? Side::BUY
+                : Side::SELL,
+            OrderType::LIMIT};
+
+        std::vector<Trade> trades =
+            engine.process(order);
 
         std::cout
-            << "--------------------------------------------------\n"
-            << "ORDER #" << order->orderId
-            << " | "
+            << "ORDER "
+            << order->orderId
+            << " "
             << (order->side == Side::BUY ? "BUY " : "SELL ")
             << order->quantity
             << " @ "
@@ -39,39 +67,24 @@ int main()
         for (const auto &trade : trades)
         {
             std::cout
-                << "TRADE  "
+                << "TRADE "
                 << trade.quantity
                 << " @ "
                 << trade.price
                 << '\n';
+
+            publisher.PublishTrade(trade);
         }
 
-        Price bid = engine.book().bestBid();
-        Price ask = engine.book().bestAsk();
-
         std::cout
-            << "BOOK   | "
-            << "BID: " << bid
-            << " | ASK: " << ask;
-
-        if (bid > 0 && ask > 0)
-        {
-            std::cout
-                << " | SPREAD: "
-                << (ask - bid);
-        }
-
-        std::cout << '\n';
-
-        std::cout
-            << "STATS  | Orders: "
-            << orderCount
-            << " | Trades: "
-            << tradeCount
-            << '\n';
+            << "BID="
+            << engine.book().bestBid()
+            << " ASK="
+            << engine.book().bestAsk()
+            << "\n\n";
 
         std::this_thread::sleep_for(
-            std::chrono::milliseconds(50));
+            std::chrono::milliseconds(100));
     }
 
     return 0;

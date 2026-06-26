@@ -1,26 +1,27 @@
 CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:\Users\ks798\Desktop\HFT_Trading_Simulation\backend\apps\exchange\main.cpp \
- C:/msys64/ucrt64/include/c++/15.2.0/iostream \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/os_defines.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
- C:/msys64/ucrt64/include/c++/15.2.0/pstl/pstl_config.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ostream \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ostream.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ios \
- C:/msys64/ucrt64/include/c++/15.2.0/iosfwd \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stringfwd.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/memoryfwd.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/postypes.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cwchar \
+ C:/msys64/ucrt64/include/c++/16.1.0/iostream \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/requires_hosted.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/pstl/pstl_config.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ostream \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ios \
+ C:/msys64/ucrt64/include/c++/16.1.0/iosfwd \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stringfwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/memoryfwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/version.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/postypes.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cwchar \
  C:/msys64/ucrt64/include/wchar.h C:/msys64/ucrt64/include/corecrt.h \
  C:/msys64/ucrt64/include/_mingw.h C:/msys64/ucrt64/include/_mingw_mac.h \
  C:/msys64/ucrt64/include/_mingw_secapi.h \
  C:/msys64/ucrt64/include/vadefs.h \
  C:/msys64/ucrt64/include/corecrt_stdio_config.h \
  C:/msys64/ucrt64/include/corecrt_wconio.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stddef.h \
  C:/msys64/ucrt64/include/stddef.h C:/msys64/ucrt64/include/crtdefs.h \
  C:/msys64/ucrt64/include/sec_api/wconio_s.h \
  C:/msys64/ucrt64/include/corecrt_wstdlib.h \
@@ -29,45 +30,45 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/_mingw_stat64.h \
  C:/msys64/ucrt64/include/swprintf.inl \
  C:/msys64/ucrt64/include/sec_api/wchar_s.h \
- C:/msys64/ucrt64/include/c++/15.2.0/exception \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/exception.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/version.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_ptr.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_defines.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/cxxabi_init_exception.h \
- C:/msys64/ucrt64/include/c++/15.2.0/typeinfo \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/hash_bytes.h \
- C:/msys64/ucrt64/include/c++/15.2.0/new \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/move.h \
- C:/msys64/ucrt64/include/c++/15.2.0/type_traits \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/nested_exception.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/char_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/compare \
- C:/msys64/ucrt64/include/c++/15.2.0/concepts \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_construct.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator_base_types.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/iterator_concepts.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ptr_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ranges_cmp.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator_base_funcs.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/concept_check.h \
- C:/msys64/ucrt64/include/c++/15.2.0/debug/assertions.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/localefwd.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++locale.h \
- C:/msys64/ucrt64/include/c++/15.2.0/clocale \
+ C:/msys64/ucrt64/include/c++/16.1.0/exception \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/exception.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_ptr.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/exception_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/cxxabi_init_exception.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/typeinfo \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/hash_bytes.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/new \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/new_except.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/move.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/type_traits \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/nested_exception.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/char_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/compare \
+ C:/msys64/ucrt64/include/c++/16.1.0/concepts \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_construct.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator_base_types.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/iterator_concepts.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ptr_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_cmp.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator_base_funcs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/concept_check.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/debug/assertions.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/localefwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++locale.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/clocale \
  C:/msys64/ucrt64/include/locale.h C:/msys64/ucrt64/include/stdio.h \
  C:/msys64/ucrt64/include/sec_api/stdio_s.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cctype \
+ C:/msys64/ucrt64/include/c++/16.1.0/cctype \
  C:/msys64/ucrt64/include/ctype.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ios_base.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/atomicity.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ios_base.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/atomicity.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/gthr.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/gthr-default.h \
  C:/msys64/ucrt64/include/pthread.h C:/msys64/ucrt64/include/errno.h \
  C:/msys64/ucrt64/include/sys/types.h C:/msys64/ucrt64/include/process.h \
  C:/msys64/ucrt64/include/corecrt_startup.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/limits.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/syslimits.h \
  C:/msys64/ucrt64/include/limits.h C:/msys64/ucrt64/include/signal.h \
  C:/msys64/ucrt64/include/pthread_signal.h \
  C:/msys64/ucrt64/include/time.h C:/msys64/ucrt64/include/sys/timeb.h \
@@ -77,155 +78,168 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/pthread_compat.h \
  C:/msys64/ucrt64/include/sched.h \
  C:/msys64/ucrt64/include/pthread_unistd.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.h \
- C:/msys64/ucrt64/include/c++/15.2.0/string \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/allocator.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/new_allocator.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/functexcept.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/cpp_type_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ostream_insert.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/cxxabi_forced.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/type_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_function.h \
- C:/msys64/ucrt64/include/c++/15.2.0/backward/binders.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/numeric_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_algobase.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_pair.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/utility.h \
- C:/msys64/ucrt64/include/c++/15.2.0/debug/debug.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/predefined_ops.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bit \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/refwrap.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/invoke.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/range_access.h \
- C:/msys64/ucrt64/include/c++/15.2.0/initializer_list \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/basic_string.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/alloc_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/alloc_traits.h \
- C:/msys64/ucrt64/include/c++/15.2.0/string_view \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/functional_hash.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ranges_base.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/max_size_type.h \
- C:/msys64/ucrt64/include/c++/15.2.0/numbers \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/string_view.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/string_conversions.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cstdlib \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/atomic_word.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_classes.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/functexcept.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/string \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/allocator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/new_allocator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/new_throw.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/cpp_type_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream_insert.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/cxxabi_forced.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_iterator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/type_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_function.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/backward/binders.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/numeric_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throw.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_throwfwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_algobase.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_pair.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/utility.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/debug/debug.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/predefined_ops.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bit \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/range_access.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/initializer_list \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/erase_if.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_string.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/alloc_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/alloc_traits.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/string_view \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/functional_hash.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_base.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/max_size_type.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/numbers \
+ C:/msys64/ucrt64/include/c++/16.1.0/limits \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/string_view.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/string_conversions.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstdlib \
  C:/msys64/ucrt64/include/stdlib.h \
  C:/msys64/ucrt64/include/sec_api/stdlib_s.h \
- C:/msys64/ucrt64/include/c++/15.2.0/stdlib.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/stdlib.h \
  C:/msys64/ucrt64/include/malloc.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/std_abs.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cstdio \
- C:/msys64/ucrt64/include/c++/15.2.0/cerrno \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/charconv.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/basic_string.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/memory_resource.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cstddef \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/uses_allocator_args.h \
- C:/msys64/ucrt64/include/c++/15.2.0/tuple \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ranges_util.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/system_error \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/error_constants.h \
- C:/msys64/ucrt64/include/c++/15.2.0/stdexcept \
- C:/msys64/ucrt64/include/c++/15.2.0/streambuf \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/streambuf.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/basic_ios.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cwctype \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mm_malloc.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/std_abs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstdio \
+ C:/msys64/ucrt64/include/c++/16.1.0/cerrno \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/charconv.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_string.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/memory_resource.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstddef \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/uses_allocator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/uses_allocator_args.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/tuple \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/invoke.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_util.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_classes.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/system_error \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/error_constants.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/stdexcept \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stdexcept_except.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/streambuf \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/streambuf.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_ios.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/cwctype \
  C:/msys64/ucrt64/include/wctype.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/streambuf_iterator.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/basic_ios.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ostream.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/istream \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/istream.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/thread \
- C:/msys64/ucrt64/include/c++/15.2.0/stop_token \
- C:/msys64/ucrt64/include/c++/15.2.0/atomic \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/atomic_base.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/atomic_lockfree_defines.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/atomic_wait.h \
- C:/msys64/ucrt64/include/c++/15.2.0/cstdint \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/ctype_base.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/streambuf_iterator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/ctype_inline.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/basic_ios.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream_print.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ostream.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/istream \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/istream.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/random \
+ C:/msys64/ucrt64/include/c++/16.1.0/cmath \
+ C:/msys64/ucrt64/include/math.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/specfun.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/gamma.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/special_function_util.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/bessel_function.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/beta_function.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/ell_integral.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/exp_integral.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/hypergeometric.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/legendre_function.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/modified_bessel_func.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/poly_hermite.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/poly_laguerre.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/tr1/riemann_zeta.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstdint \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/std_mutex.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/std_thread.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/unique_ptr.h \
- C:/msys64/ucrt64/include/c++/15.2.0/semaphore \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/semaphore_base.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/chrono.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ratio \
- C:/msys64/ucrt64/include/c++/15.2.0/limits \
- C:/msys64/ucrt64/include/c++/15.2.0/ctime \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/parse_numbers.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/atomic_timed_wait.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/this_thread_sleep.h \
- C:/msys64/ucrt64/include/semaphore.h \
- C:/msys64/ucrt64/include/c++/15.2.0/chrono \
- C:/msys64/ucrt64/include/c++/15.2.0/sstream \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/sstream.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/vector \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_uninitialized.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_vector.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_bvector.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/vector.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_algo.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/algorithmfwd.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_heap.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/uniform_int_dist.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_tempbuf.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/shared_ptr.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/shared_ptr_base.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/allocated_ptr.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/aligned_buffer.h \
- C:/msys64/ucrt64/include/c++/15.2.0/ext/concurrence.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/align.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/chrono_io.h \
- C:/msys64/ucrt64/include/c++/15.2.0/iomanip \
- C:/msys64/ucrt64/include/c++/15.2.0/locale \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets_nonio.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/time_members.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/messages_members.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/codecvt.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets_nonio.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_conv.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/quoted_string.h \
- C:/msys64/ucrt64/include/c++/15.2.0/format \
- C:/msys64/ucrt64/include/c++/15.2.0/array \
- C:/msys64/ucrt64/include/c++/15.2.0/charconv \
- C:/msys64/ucrt64/include/c++/15.2.0/optional \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/enable_special_members.h \
- C:/msys64/ucrt64/include/c++/15.2.0/span \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/monostate.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/formatfwd.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ranges_algobase.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/unicode.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/unicode-data.h \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/feed/MarketDataFeed.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Order.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/common/Types.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Side.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/OrderType.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/matching/MatchingEngine.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/book/OrderBook.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/book/BookSide.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/map \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_tree.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/node_handle.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_map.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_multimap.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/erase_if.h \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/book/PriceLevel.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/market/BookSnapShot.hpp \
- C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Trade.hpp \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/random.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/vector \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_uninitialized.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_vector.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_bvector.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/vector.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/uniform_int_dist.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/opt_random.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/pmmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/emmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xmmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mwaitintrin.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/random.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/numeric \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_numeric.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/pstl/glue_numeric_defs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/pstl/execution_defs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/thread \
+ C:/msys64/ucrt64/include/c++/16.1.0/stop_token \
+ C:/msys64/ucrt64/include/c++/16.1.0/atomic \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_base.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_lockfree_defines.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_wait.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/std_thread.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/refwrap.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/unique_ptr.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/semaphore \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/semaphore_base.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/chrono.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ratio \
+ C:/msys64/ucrt64/include/c++/16.1.0/ctime \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/parse_numbers.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_timed_wait.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/this_thread_sleep.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/chrono \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_algo.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/algorithmfwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_heap.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_tempbuf.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/sstream \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/sstream.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/shared_ptr.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/shared_ptr_base.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/allocated_ptr.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/aligned_buffer.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/ext/concurrence.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/align.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/chrono_io.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/format \
+ C:/msys64/ucrt64/include/c++/16.1.0/array \
+ C:/msys64/ucrt64/include/c++/16.1.0/charconv \
+ C:/msys64/ucrt64/include/c++/16.1.0/locale \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets_nonio.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/time_members.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/x86_64-w64-mingw32/bits/messages_members.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/codecvt.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_facets_nonio.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/locale_conv.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/optional \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/enable_special_members.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/span \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/monostate.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/formatfwd.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_algobase.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/unicode.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/unicode-data.h \
  C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/network/WebSocketServer.hpp \
  C:/msys64/ucrt64/include/boost/beast/websocket.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/config.hpp \
@@ -234,7 +248,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/config/detail/select_compiler_config.hpp \
  C:/msys64/ucrt64/include/boost/config/compiler/gcc.hpp \
  C:/msys64/ucrt64/include/boost/config/detail/select_stdlib_config.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/version \
+ C:/msys64/ucrt64/include/c++/16.1.0/version \
  C:/msys64/ucrt64/include/boost/config/stdlib/libstdcpp3.hpp \
  C:/msys64/ucrt64/include/boost/config/detail/select_platform_config.hpp \
  C:/msys64/ucrt64/include/boost/config/platform/win32.hpp \
@@ -253,17 +267,20 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/system/detail/config.hpp \
  C:/msys64/ucrt64/include/boost/config/workaround.hpp \
  C:/msys64/ucrt64/include/boost/cstdint.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/functional \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/std_function.h \
- C:/msys64/ucrt64/include/c++/15.2.0/unordered_map \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/unordered_map.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/hashtable.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/hashtable_policy.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/functional \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/std_function.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/unordered_map \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/unordered_map.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/hashtable.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/hashtable_policy.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/node_handle.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/binders.h \
  C:/msys64/ucrt64/include/boost/system/detail/error_condition.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/generic_category.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/generic_category_message.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/cstring \
+ C:/msys64/ucrt64/include/c++/16.1.0/cstring \
  C:/msys64/ucrt64/include/string.h \
+ C:/msys64/ucrt64/include/corecrt_memory.h \
  C:/msys64/ucrt64/include/sec_api/string_s.h \
  C:/msys64/ucrt64/include/boost/system/detail/enable_if.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/is_same.hpp \
@@ -278,7 +295,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/system/api_config.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/system_category_message_win32.hpp \
  C:/msys64/ucrt64/include/boost/winapi/error_handling.hpp \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/stdarg.h \
  C:/msys64/ucrt64/include/stdarg.h \
  C:/msys64/ucrt64/include/_mingw_stdarg.h \
  C:/msys64/ucrt64/include/boost/winapi/basic_types.hpp \
@@ -315,20 +332,21 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/system/detail/interop_category.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/std_category.hpp \
  C:/msys64/ucrt64/include/boost/assert/source_location.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/source_location \
+ C:/msys64/ucrt64/include/c++/16.1.0/source_location \
  C:/msys64/ucrt64/include/boost/system/error_category.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/error_category_impl.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/std_category_impl.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/mutex.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/mutex \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/unique_lock.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/mutex \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/std_mutex.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/unique_lock.h \
  C:/msys64/ucrt64/include/boost/system/error_condition.hpp \
  C:/msys64/ucrt64/include/boost/system/errc.hpp \
  C:/msys64/ucrt64/include/boost/system/generic_category.hpp \
  C:/msys64/ucrt64/include/boost/system/system_category.hpp \
  C:/msys64/ucrt64/include/boost/system/detail/throws.hpp \
  C:/msys64/ucrt64/include/boost/system/system_error.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/cassert \
+ C:/msys64/ucrt64/include/c++/16.1.0/cassert \
  C:/msys64/ucrt64/include/assert.h \
  C:/msys64/ucrt64/include/boost/beast/core/impl/error.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/impl/error.ipp \
@@ -345,8 +363,8 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/container_hash/hash_fwd.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/hash_is_avalanching.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/is_range.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/iterator \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stream_iterator.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/iterator \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stream_iterator.h \
  C:/msys64/ucrt64/include/boost/container_hash/is_contiguous_range.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/is_unordered_range.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/is_described_class.hpp \
@@ -380,44 +398,29 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/mp11/detail/mp_remove_if.hpp \
  C:/msys64/ucrt64/include/boost/mp11/detail/mp_map_find.hpp \
  C:/msys64/ucrt64/include/boost/mp11/detail/mp_with_index.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/utility \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_relops.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/utility \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_relops.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/intcmp.h \
  C:/msys64/ucrt64/include/boost/mp11/integer_sequence.hpp \
  C:/msys64/ucrt64/include/boost/describe/members.hpp \
  C:/msys64/ucrt64/include/boost/describe/detail/cx_streq.hpp \
  C:/msys64/ucrt64/include/boost/mp11/bind.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/detail/hash_integral.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/detail/hash_mix.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/climits \
+ C:/msys64/ucrt64/include/c++/16.1.0/climits \
  C:/msys64/ucrt64/include/boost/container_hash/detail/hash_tuple_like.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/is_tuple_like.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/detail/hash_range.hpp \
  C:/msys64/ucrt64/include/boost/container_hash/detail/mulx.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/complex \
- C:/msys64/ucrt64/include/c++/15.2.0/cmath \
- C:/msys64/ucrt64/include/math.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/specfun.h \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/gamma.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/special_function_util.h \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/bessel_function.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/beta_function.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/ell_integral.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/exp_integral.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/hypergeometric.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/legendre_function.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/modified_bessel_func.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/poly_hermite.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/poly_laguerre.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/tr1/riemann_zeta.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/memory \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_raw_storage_iter.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/shared_ptr_atomic.h \
- C:/msys64/ucrt64/include/c++/15.2.0/backward/auto_ptr.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ranges_uninitialized.h \
- C:/msys64/ucrt64/include/c++/15.2.0/pstl/glue_memory_defs.h \
- C:/msys64/ucrt64/include/c++/15.2.0/pstl/execution_defs.h \
- C:/msys64/ucrt64/include/c++/15.2.0/typeindex \
- C:/msys64/ucrt64/include/c++/15.2.0/variant \
+ C:/msys64/ucrt64/include/c++/16.1.0/complex \
+ C:/msys64/ucrt64/include/c++/16.1.0/memory \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_raw_storage_iter.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/shared_ptr_atomic.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/backward/auto_ptr.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_uninitialized.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/pstl/glue_memory_defs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/typeindex \
+ C:/msys64/ucrt64/include/c++/16.1.0/variant \
  C:/msys64/ucrt64/include/boost/utility/string_view.hpp \
  C:/msys64/ucrt64/include/boost/detail/workaround.hpp \
  C:/msys64/ucrt64/include/boost/io/ostream_put.hpp \
@@ -426,9 +429,9 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/utility/string_view_fwd.hpp \
  C:/msys64/ucrt64/include/boost/throw_exception.hpp \
  C:/msys64/ucrt64/include/boost/exception/exception.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/algorithm \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/ranges_algo.h \
- C:/msys64/ucrt64/include/c++/15.2.0/pstl/glue_algorithm_defs.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/algorithm \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/ranges_algo.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/pstl/glue_algorithm_defs.h \
  C:/msys64/ucrt64/include/boost/core/detail/string_view.hpp \
  C:/msys64/ucrt64/include/boost/core/enable_if.hpp \
  C:/msys64/ucrt64/include/boost/core/detail/is_same.hpp \
@@ -450,6 +453,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/beast/http/impl/field.ipp \
  C:/msys64/ucrt64/include/boost/asio/buffer.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/config.hpp \
+ C:/msys64/ucrt64/include/boost/asio/version.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/array_fwd.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/memory.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/cstdint.hpp \
@@ -490,6 +494,8 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/move/detail/meta_utils.hpp \
  C:/msys64/ucrt64/include/boost/move/detail/meta_utils_core.hpp \
  C:/msys64/ucrt64/include/boost/move/detail/addressof.hpp \
+ C:/msys64/ucrt64/include/boost/move/detail/std_ns_begin.hpp \
+ C:/msys64/ucrt64/include/boost/move/detail/std_ns_end.hpp \
  C:/msys64/ucrt64/include/boost/move/detail/config_end.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/node_holder.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/get_value_traits.hpp \
@@ -506,8 +512,6 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/intrusive/detail/uncast.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/list_iterator.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/std_fwd.hpp \
- C:/msys64/ucrt64/include/boost/move/detail/std_ns_begin.hpp \
- C:/msys64/ucrt64/include/boost/move/detail/std_ns_end.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/iiterator.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/iterator.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/array_initializer.hpp \
@@ -516,10 +520,10 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/intrusive/detail/exception_disposer.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/equal_to_value.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/key_nodeptr_comp.hpp \
+ C:/msys64/ucrt64/include/boost/intrusive/detail/tree_value_compare.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/ebo_functor_holder.hpp \
  C:/msys64/ucrt64/include/boost/move/utility_core.hpp \
  C:/msys64/ucrt64/include/boost/move/core.hpp \
- C:/msys64/ucrt64/include/boost/intrusive/detail/tree_value_compare.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/simple_disposers.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/size_holder.hpp \
  C:/msys64/ucrt64/include/boost/intrusive/detail/algorithm.hpp \
@@ -545,33 +549,27 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/move/adl_move_swap.hpp \
  C:/msys64/ucrt64/include/boost/optional.hpp \
  C:/msys64/ucrt64/include/boost/optional/optional.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_select_implementation.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_common_defs.hpp \
  C:/msys64/ucrt64/include/boost/core/addressof.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_factory_support.hpp \
+ C:/msys64/ucrt64/include/boost/none.hpp \
+ C:/msys64/ucrt64/include/boost/none_t.hpp \
+ C:/msys64/ucrt64/include/boost/config/pragma_message.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/union_optional.hpp \
  C:/msys64/ucrt64/include/boost/core/invoke_swap.hpp \
- C:/msys64/ucrt64/include/boost/core/launder.hpp \
  C:/msys64/ucrt64/include/boost/optional/bad_optional_access.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_reference_spec.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_hash.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_relops.hpp \
+ C:/msys64/ucrt64/include/boost/optional/detail/optional_nonmember_interface.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/type_with_alignment.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/alignment_of.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/intrinsics.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/detail/config.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/integral_constant.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/conditional.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/conjunction.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/disjunction.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_constructor.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_default_constructible.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_complete.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/declval.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/add_rvalue_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_void.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_lvalue_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_rvalue_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/remove_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_function.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/detail/is_function_cxx_11.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/detail/yes_no_type.hpp \
- C:/msys64/ucrt64/include/boost/static_assert.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/type_with_alignment.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_pod.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_void.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_scalar.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_arithmetic.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_integral.hpp \
@@ -581,44 +579,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/type_traits/is_member_pointer.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_member_function_pointer.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/remove_const.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/decay.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_array.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/remove_bounds.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/remove_extent.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/add_pointer.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/remove_cv.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_assignable.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_base_of.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_base_and_derived.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_same.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_class.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_const.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_constructible.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_destructible.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_convertible.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_abstract.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/add_lvalue_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/add_reference.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_move_assignable.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/has_trivial_move_assign.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_volatile.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_assign.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/enable_if.hpp \
- C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_move_constructible.hpp \
- C:/msys64/ucrt64/include/boost/none.hpp \
- C:/msys64/ucrt64/include/boost/none_t.hpp \
- C:/msys64/ucrt64/include/boost/config/pragma_message.hpp \
- C:/msys64/ucrt64/include/boost/optional/optional_fwd.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_config.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_factory_support.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_aligned_storage.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_hash.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_utility.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_trivially_copyable_base.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_reference_spec.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_relops.hpp \
- C:/msys64/ucrt64/include/boost/optional/detail/optional_swap.hpp \
+ C:/msys64/ucrt64/include/boost/static_assert.hpp \
  C:/msys64/ucrt64/include/boost/beast/http/impl/fields.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/buffers_cat.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/buffer_traits.hpp \
@@ -626,9 +587,13 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/type_traits/make_void.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/static_const.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/tuple.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/remove_cv.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/copy_cv.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_const.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_volatile.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/add_const.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/add_volatile.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/conditional.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/type_traits.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/aligned_storage.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_cat.hpp \
@@ -674,18 +639,6 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/beast/core/detail/sha1.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/sha1.ipp \
  C:/msys64/ucrt64/include/boost/beast/websocket/detail/prng.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/random \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/random.h \
- C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/opt_random.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pmmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/emmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xmmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mwaitintrin.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/random.tcc \
- C:/msys64/ucrt64/include/c++/15.2.0/numeric \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_numeric.h \
- C:/msys64/ucrt64/include/c++/15.2.0/pstl/glue_numeric_defs.h \
  C:/msys64/ucrt64/include/boost/beast/websocket/detail/prng.ipp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/chacha.hpp \
  C:/msys64/ucrt64/include/boost/beast/core/detail/pcg.hpp \
@@ -729,15 +682,37 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/beast/core/impl/buffers_suffix.hpp \
  C:/msys64/ucrt64/include/boost/type_traits.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/add_cv.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/add_lvalue_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/add_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/add_pointer.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/remove_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/add_rvalue_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_lvalue_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_rvalue_reference.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/common_type.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/decay.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_array.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_function.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/detail/is_function_cxx_11.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/remove_bounds.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/remove_extent.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/declval.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_complete.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/detail/yes_no_type.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/detail/mp_defer.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/conjunction.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/copy_cv_ref.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/copy_reference.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/disjunction.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/enable_if.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/extent.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/floating_point_promotion.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/function_traits.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_bit_and.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/detail/has_binary_operator.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_convertible.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_abstract.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_bit_and_assign.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_bit_or.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_bit_or_assign.hpp \
@@ -768,12 +743,19 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/type_traits/has_negate.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_new_operator.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_not_equal_to.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_assign.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_assignable.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_constructor.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_default_constructible.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_copy.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_copy_constructible.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_constructible.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_destructible.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_nothrow_destructor.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_trivial_destructor.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_plus.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_plus_assign.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_same.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_post_decrement.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/detail/has_postfix_operator.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_post_increment.hpp \
@@ -784,10 +766,14 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/type_traits/has_trivial_assign.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_trivial_constructor.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_trivial_copy.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/has_trivial_move_assign.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_trivial_move_constructor.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_unary_minus.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_unary_plus.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/has_virtual_destructor.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_base_and_derived.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_base_of.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_class.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_complex.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_compound.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_fundamental.hpp \
@@ -798,6 +784,8 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/type_traits/is_float.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_list_constructible.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_member_object_pointer.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_move_assignable.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_move_constructible.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_nothrow_swappable.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/detail/is_swappable_cxx_11.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/is_object.hpp \
@@ -816,6 +804,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/type_traits/make_unsigned.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/rank.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/remove_all_extents.hpp \
+ C:/msys64/ucrt64/include/boost/type_traits/remove_const.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/remove_cv_ref.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/remove_volatile.hpp \
  C:/msys64/ucrt64/include/boost/type_traits/type_identity.hpp \
@@ -883,118 +872,114 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/apiset.h \
  C:/msys64/ucrt64/include/psdk_inc/intrin-impl.h \
  C:/msys64/ucrt64/include/basetsd.h C:/msys64/ucrt64/include/guiddef.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/x86intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/x86gprintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/ia32intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/adxintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/bmiintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/bmi2intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cetintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cldemoteintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clflushoptintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clzerointrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cmpccxaddintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/enqcmdintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fxsrintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lzcntintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lwpintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/movdirintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mwaitxintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pconfigintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/popcntintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/pkuintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/prfchiintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/raointintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/rdseedintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/rtmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/serializeintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sgxintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tbmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tsxldtrkintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/uintrintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/waitpkgintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wbnoinvdintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavecintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveoptintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavesintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/hresetintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/usermsrintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/immintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/tmmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/smmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wmmintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxifmaintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniint8intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxvnniint16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx2intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512cdintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bwintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512dqintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vlbwintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vldqintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmaintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512ifmavlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmiintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmivlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmi2intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmi2vlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vnniintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vnnivlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqvlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bitalgintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bitalgvlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectvlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512fp16vlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/shaintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm3intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sha512intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm4intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fmaintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/f16cintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/gfniintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/vaesintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/vpclmulqdqintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16vlintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxneconvertintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtileintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxint8intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxbf16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxcomplexintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxavx512intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtf32intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxtransposeintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp8intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/prfchwintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/keylockerintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxfp16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2mediaintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512mediaintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2convertintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512convertintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2bf16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512bf16intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2satcvtintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512satcvtintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2minmaxintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512minmaxintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2copyintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/movrsintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/amxmovrsintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm3dnow.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fma4intrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/ammintrin.h \
- C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xopintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/x86intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/x86gprintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/ia32intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/adxintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/bmiintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/bmi2intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/cetintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/cldemoteintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/clflushoptintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/clwbintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/clzerointrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/cmpccxaddintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/enqcmdintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/fxsrintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/lzcntintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/lwpintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/movdirintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mwaitxintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/pconfigintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/popcntintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/pkuintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/prfchiintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/raointintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/rdseedintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/rtmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/serializeintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sgxintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/tbmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/tsxldtrkintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/uintrintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/waitpkgintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/wbnoinvdintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsaveintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsavecintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsaveoptintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xsavesintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xtestintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/hresetintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/usermsrintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/immintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/tmmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/smmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/wmmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxvnniintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxifmaintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxvnniint8intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxvnniint16intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx2intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512fintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512cdintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bwintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512dqintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vlbwintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vldqintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512ifmaintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512ifmavlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmiintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmivlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vpopcntdqintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmi2intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vbmi2vlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vnniintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vnnivlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vpopcntdqvlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bitalgintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bitalgvlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vp2intersectintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512vp2intersectvlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512fp16intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512fp16vlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/shaintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sm3intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sha512intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/sm4intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/fmaintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/f16cintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/gfniintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/vaesintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/vpclmulqdqintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bf16vlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bf16intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avxneconvertintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxtileintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxint8intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxbf16intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxcomplexintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxavx512intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxtf32intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxfp8intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/prfchwintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/keylockerintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxfp16intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2mediaintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2convertintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2bf16intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2satcvtintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2minmaxintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx10_2copyintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/movrsintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/amxmovrsintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bmmintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/avx512bmmvlintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/mm3dnow.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/fma4intrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/ammintrin.h \
+ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.1.0/include/xopintrin.h \
  C:/msys64/ucrt64/include/pshpack4.h C:/msys64/ucrt64/include/poppack.h \
  C:/msys64/ucrt64/include/pshpack4.h C:/msys64/ucrt64/include/pshpack2.h \
  C:/msys64/ucrt64/include/poppack.h C:/msys64/ucrt64/include/pshpack2.h \
@@ -1067,9 +1052,8 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/detail/mutex.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/win_mutex.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/scoped_lock.hpp \
- C:/msys64/ucrt64/include/boost/asio/detail/impl/win_mutex.ipp \
  C:/msys64/ucrt64/include/boost/asio/execution/context.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/any \
+ C:/msys64/ucrt64/include/c++/16.1.0/any \
  C:/msys64/ucrt64/include/boost/asio/execution/context_as.hpp \
  C:/msys64/ucrt64/include/boost/asio/execution/inline_exception_handling.hpp \
  C:/msys64/ucrt64/include/boost/asio/execution/mapping.hpp \
@@ -1152,9 +1136,9 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/detail/win_fd_set_adapter.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/reactor_op_queue.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/hash_map.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/list \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_list.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/list.tcc \
+ C:/msys64/ucrt64/include/c++/16.1.0/list \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_list.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/list.tcc \
  C:/msys64/ucrt64/include/boost/asio/detail/scheduler_task.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/select_interrupter.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/socket_select_interrupter.hpp \
@@ -1333,7 +1317,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/as_tuple.hpp \
  C:/msys64/ucrt64/include/boost/asio/impl/as_tuple.hpp \
  C:/msys64/ucrt64/include/boost/asio/awaitable.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/coroutine \
+ C:/msys64/ucrt64/include/c++/16.1.0/coroutine \
  C:/msys64/ucrt64/include/boost/asio/impl/awaitable.hpp \
  C:/msys64/ucrt64/include/boost/asio/disposition.hpp \
  C:/msys64/ucrt64/include/boost/asio/this_coro.hpp \
@@ -1488,9 +1472,9 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/local/stream_protocol.hpp \
  C:/msys64/ucrt64/include/boost/asio/packaged_task.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/future.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/future \
- C:/msys64/ucrt64/include/c++/15.2.0/condition_variable \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/atomic_futex.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/future \
+ C:/msys64/ucrt64/include/c++/16.1.0/condition_variable \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/atomic_futex.h \
  C:/msys64/ucrt64/include/boost/asio/placeholders.hpp \
  C:/msys64/ucrt64/include/boost/asio/posix/basic_descriptor.hpp \
  C:/msys64/ucrt64/include/boost/asio/posix/basic_stream_descriptor.hpp \
@@ -1525,6 +1509,7 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/impl/thread_pool.ipp \
  C:/msys64/ucrt64/include/boost/asio/strand.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/strand_executor_service.hpp \
+ C:/msys64/ucrt64/include/boost/asio/detail/slim_mutex.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/impl/strand_executor_service.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/impl/strand_executor_service.ipp \
  C:/msys64/ucrt64/include/boost/asio/stream_file.hpp \
@@ -1532,7 +1517,6 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/system_timer.hpp \
  C:/msys64/ucrt64/include/boost/asio/use_future.hpp \
  C:/msys64/ucrt64/include/boost/asio/impl/use_future.hpp \
- C:/msys64/ucrt64/include/boost/asio/version.hpp \
  C:/msys64/ucrt64/include/boost/asio/windows/basic_object_handle.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/win_object_handle_service.hpp \
  C:/msys64/ucrt64/include/boost/asio/detail/impl/win_object_handle_service.ipp \
@@ -1549,6 +1533,22 @@ CMakeFiles/exchange.dir/apps/exchange/main.cpp.obj: \
  C:/msys64/ucrt64/include/boost/asio/writable_pipe.hpp \
  C:/msys64/ucrt64/include/boost/asio/write_at.hpp \
  C:/msys64/ucrt64/include/boost/asio/impl/write_at.hpp \
- C:/msys64/ucrt64/include/c++/15.2.0/set \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_set.h \
- C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_multiset.h
+ C:/msys64/ucrt64/include/c++/16.1.0/set \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_tree.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_set.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_multiset.h \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/network/MarketPublisher.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Trade.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/common/Types.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/matching/MatchingEngine.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/book/OrderBook.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/book/BookSide.hpp \
+ C:/msys64/ucrt64/include/c++/16.1.0/map \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_map.h \
+ C:/msys64/ucrt64/include/c++/16.1.0/bits/stl_multimap.h \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/book/PriceLevel.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Order.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/Side.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/order/OrderType.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/market/BookSnapShot.hpp \
+ C:/Users/ks798/Desktop/HFT_Trading_Simulation/backend/include/common/TimeStamp.hpp
